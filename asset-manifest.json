@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/glm-pay/static/css/main.1e6602c6.css",
+    "main.js": "/glm-pay/static/js/main.adc4d38e.js",
+    "static/media/InterBold.ttf": "/glm-pay/static/media/InterBold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/InterRegular.ttf": "/glm-pay/static/media/InterRegular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/RobotoRegular.ttf": "/glm-pay/static/media/RobotoRegular.fc2b5060f7accec5cf74.ttf",
+    "static/media/RobotoLight.ttf": "/glm-pay/static/media/RobotoLight.333da16a3f3cc391d087.ttf",
+    "static/media/RalewayRomanBold.ttf": "/glm-pay/static/media/RalewayRomanBold.757abe402eb07a0ab739.ttf",
+    "static/media/OpenSansRomanBold.ttf": "/glm-pay/static/media/OpenSansRomanBold.c790f99966352c531503.ttf",
+    "static/media/img_bg.svg": "/glm-pay/static/media/img_bg.19ff2d61cf0a68ff067f.svg",
+    "index.html": "/glm-pay/index.html",
+    "main.1e6602c6.css.map": "/glm-pay/static/css/main.1e6602c6.css.map",
+    "main.adc4d38e.js.map": "/glm-pay/static/js/main.adc4d38e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e6602c6.css",
+    "static/js/main.adc4d38e.js"
+  ]
+}
